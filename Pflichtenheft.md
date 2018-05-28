@@ -20,7 +20,7 @@
 
 ### 4. [Produktfunktionen](#chapter-4)
 1. Benutzerfunktionen
-1.1 Benutzerkennung
+* 1.1 Benutzerkennung
 1.2 Persönliche Daten
 1.3 Persönliche Konfiguration
 1.4 Persönliche Profil
