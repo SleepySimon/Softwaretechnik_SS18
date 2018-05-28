@@ -2,6 +2,6 @@
 >Kontaktapp
 ***
 
-# Pflichtenheft
+# Pflichtenheft (functional specifications)
 
 
