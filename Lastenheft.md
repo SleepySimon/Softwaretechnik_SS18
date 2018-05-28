@@ -1,4 +1,4 @@
-# Lastenheft(requirement specifications)
+# Lastenheft (requirement specifications)
 # IOS/Android Kontaktverwaltung App
 
 ## Kundeninformationen
