@@ -1,5 +1,8 @@
+
+##### IOS/Android Kontaktverwaltung App
+***
 # Lastenheft (requirement specifications)
-# IOS/Android Kontaktverwaltung App
+
 
 ## Kundeninformationen
 
@@ -9,6 +12,8 @@
 * Anschrift:
 * Telefon:
 * E-Mail:
+
+
 
 ## Unternehmeninformationen
 
@@ -23,3 +28,5 @@
 * Daten editieren/aktualisieren
 * Sammeländerung, cascade Änderung
 
+
+    
