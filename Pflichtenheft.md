@@ -20,13 +20,13 @@
 
 ### 4. [Produktfunktionen](#chapter-4)
 1. Benutzerfunktionen
-        1.1 Benutzerkennung
-        1.2 Persönliche Daten
-        1.3 Persönliche Konfiguration
-        1.4 Persönliche Profil
+1.1 Benutzerkennung
+1.2 Persönliche Daten
+1.3 Persönliche Konfiguration
+1.4 Persönliche Profil
 2. Administratorfunktionen
-        2.1 Systemverwaltung
-        2.2 Benutzerverwaltung
+1.1 Systemverwaltung
+1.2 Benutzerverwaltung
         
 ### 5. [Produktdaten](#chapter-5)
 ### 6. [Produktleistungen](#chapter-6)
