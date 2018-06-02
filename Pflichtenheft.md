@@ -3,10 +3,12 @@
 # Pflichtenheft (functional specifications)
        
 # Inhaltsverzeichnis
-### [1. Zielbestimmungen](#chapter-1)
+### 1. [Zielbestimmungen](#chapter-1) 
 1. Musskriterien
 1. Wunschkriterien
 1. Abgrenzungskriterien
+
+
 
 ### 2. [Produkteinsatz](#chapter-2)
 1. Anwendungsbereiche
@@ -41,3 +43,13 @@
 1. Hardware
 1. Orgware
 
+
+
+
+ ### 1. Zielbestimmungen  <a id="chapter-1"></a>
+
+
+
+##### 1. Anwendungsbereiche
+##### 1. Zielgruppen
+##### 1. Betriebsbedingungen
