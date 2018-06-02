@@ -3,7 +3,7 @@
 # Pflichtenheft (functional specifications)
        
 # Inhaltsverzeichnis
-### 1. [Zielbestimmungen](#chapter-1) 
+### 1. [Zielbestimmungen](#chapter-1)<br>
 1. Musskriterien
 1. Wunschkriterien
 1. Abgrenzungskriterien
