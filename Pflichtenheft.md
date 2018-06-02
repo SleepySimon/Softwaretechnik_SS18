@@ -46,9 +46,9 @@
 Test
 
 
- ### 1. Zielbestimmungen 
- <a id="chapter-1"></a>
- ### <a name="chapter-1"></a>Some heading
+ ### 1. Zielbestimmungen  <a id="chapter-1"></a>
+
+
 
 ##### 1. Anwendungsbereiche
 ##### 1. Zielgruppen
