@@ -48,7 +48,8 @@
 
  ### 1. Zielbestimmungen  <a id="chapter-1"></a>
 
-Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeiten von Prsonen/Unternehmensinformationenin einer Datenbank ermöglicht. Sie soll dem Benutzer das erstellen einer Kundendatenbank erleichtern und das spätere editiernen verinfachen.
+Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeiten von Prsonen/Unternehmensinformationenin einer Datenbank ermöglicht. 
+Sie soll dem Benutzer das erstellen einer Kundendatenbank erleichtern und das spätere editiernen verinfachen.
 
 #### 1. Musskriterien
 * Der Benutzer-Account
@@ -66,12 +67,45 @@ Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeit
 * Der Benutzer kann Unternehmen mit Personen verknüpfen
 * Der Benutzer kannn die gespeicherten daten editieren
 * edidierte Daten sollen global geändert und aktualisiert werden können
-* 
+* Der Benutzer kann Kunden nach Filtern anzeigen lassen (Stadt, Unternehmen, Straße ....)
 #### 1. Wunschkriterien
+* Der Benuitzer kann eigenen suchfilter erstellen
+* Der Benutzer kann den Suchverlauf einsehen
+* Datenbank ist mit Mail verknüpft
 #### 1. Abgrenzungskriterien
 
  ### 2. Produkteinsatz <a id="chapter-2"></a>
 
 #### 1. Anwendungsbereiche
+* Unternehmensverwaltung
+* Kundenverwaltung
+* Management
+* 
 #### 1. Zielgruppen
+Unternehmen die ihre Kundendaten organisieren und einfach visualisieren wollen
 #### 1. Betriebsbedingungen
+Dieses System soll sich bezüglich der Betriebsbedingungen nicht wesentlich von anderen Internetdiensten bzw. -anwendungen unterscheiden.
+* Betriebsdauer: täglich, 24 Stunden
+* Wartungsfrei
+* Die Sicherung der Datenbank muss manuell vom Administrator durchgeführt werden.
+
+### 3. Produktumgebung <a id="chapter-3"></a>
+Das Produkt soll auf Android wie auch auf IOS Geräten bereitgestellt werden.
+1. Software
+* Client
+    - App
+* Server
+    - PHP
+    - SQL -Datenbank
+    - SMTP (email fähig)
+
+1. Hardware
+* Client
+    - internetfähiges Mobiltelefon (Android, Apple IOS)
+* Server
+    - Internetfähiger Server
+    - Rechner, der die Ansprüche der o.g. Server-Software erfüllt
+    - Ausreichen Rechen- und Festplattenkappazität
+1. Orgware
+    - Gewährleistung der permanenten Internetanbindung
+    - Administrator muss den Internetdienst starten und die Betriebsparameter konfigurieren
