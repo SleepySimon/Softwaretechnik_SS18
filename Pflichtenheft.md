@@ -91,21 +91,23 @@ Dieses System soll sich bezüglich der Betriebsbedingungen nicht wesentlich von 
 
 ### 3. Produktumgebung <a id="chapter-3"></a>
 Das Produkt soll auf Android wie auch auf IOS Geräten bereitgestellt werden.
-1. Software
-* Client
+#### 1. Software
+* **Client**
     - App
-* Server
+* **Server**
     - PHP
     - SQL -Datenbank
     - SMTP (email fähig)
 
-1. Hardware
-* Client
-    - internetfähiges Mobiltelefon (Android, Apple IOS)
-* Server
-    - Internetfähiger Server
-    - Rechner, der die Ansprüche der o.g. Server-Software erfüllt
-    - Ausreichen Rechen- und Festplattenkappazität
-1. Orgware
-    - Gewährleistung der permanenten Internetanbindung
-    - Administrator muss den Internetdienst starten und die Betriebsparameter konfigurieren
+#### 2. Hardware
+* **Client**
+    * internetfähiges Mobiltelefon (Android, Apple IOS)
+* **Server**
+    * Internetfähiger Server
+    * Rechner, der die Ansprüche der o.g. Server-Software erfüllt
+    * Ausreichen Rechen- und Festplattenkappazität
+#### 3. Orgware
+* Gewährleistung der permanenten Internetanbindung
+* Administrator muss den Internetdienst starten und die Betriebsparameter konfigurieren
+    
+    
