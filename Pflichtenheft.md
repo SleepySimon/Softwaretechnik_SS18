@@ -50,7 +50,7 @@
 
 Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeiten von Prsonen/Unternehmensinformationenin einer Datenbank ermöglicht. Sie soll dem Benutzer das erstellen einer Kundendatenbank erleichtern und das spätere editiernen verinfachen.
 
-##### 1. Musskriterien
+#### 1. Musskriterien
 * Der Benutzer-Account
 * Der Internet-Benutzer kann sich selbst am System registrieren.
 * Der Benutzer kann sich am System anmelden und vom System abmelden.
@@ -67,11 +67,11 @@ Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeit
 * Der Benutzer kannn die gespeicherten daten editieren
 * edidierte Daten sollen global geändert und aktualisiert werden können
 * 
-##### 1. Wunschkriterien
-##### 1. Abgrenzungskriterien
+#### 1. Wunschkriterien
+#### 1. Abgrenzungskriterien
 
  ### 2. Produkteinsatz <a id="chapter-2"></a>
 
-##### 1. Anwendungsbereiche
-##### 1. Zielgruppen
-##### 1. Betriebsbedingungen
+#### 1. Anwendungsbereiche
+#### 1. Zielgruppen
+#### 1. Betriebsbedingungen
