@@ -48,8 +48,8 @@
 
  ### 1. Zielbestimmungen  <a id="chapter-1"></a>
 
-Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeiten von Prsonen/Unternehmensinformationenin einer Datenbank ermöglicht. 
-Sie soll dem Benutzer das erstellen einer Kundendatenbank erleichtern und das spätere editiernen verinfachen.
+>Die App stellt ein Internetdiesnt dar, die dem Nutzer das erstellen und bearbeiten von Prsonen/Unternehmensinformationenin >einer Datenbank ermöglicht. 
+>Sie soll dem Benutzer das erstellen einer Kundendatenbank erleichtern und das spätere editiernen verinfachen.
 
 #### 1. Musskriterien
 * Der Benutzer-Account
