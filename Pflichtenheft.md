@@ -109,5 +109,30 @@ Das Produkt soll auf Android wie auch auf IOS Geräten bereitgestellt werden.
 #### 3. Orgware
 * Gewährleistung der permanenten Internetanbindung
 * Administrator muss den Internetdienst starten und die Betriebsparameter konfigurieren
+
+### 4. Produktfunktionen <a id="chapter-4"></a>
+#### 1. Benutzerfunktionen
+    *  **Benutzerkennung**
+    *  **Persönliche Daten**
+    *  **Persönliche Konfiguration**
+    *  **Persönliche Profil**
+#### 2. Administratorfunktionen
+    *  **Systemverwaltung**
+    *  **Benutzerverwaltung**
+        
+### 5. Produktdaten <a id="chapter-5"></a>
+### 6. Produktleistungen <a id="chapter-6"></a>
+### 7. Benutzungsoberfläche <a id="chapter-7"></a>
+#### 1. Startseite
+#### 2. Hauptseite    
+#### 3. Benutzermenü
+#### 4. Layout
+### 8. Qualitätsbestimmungen <a id="chapter-8"></a>
+### 9. Enwicklungsumgebeung <a id="chapter-9"></a>
+#### 1. Software
+#### 2. Hardware
+#### 3. Orgware
+
+
     
     
