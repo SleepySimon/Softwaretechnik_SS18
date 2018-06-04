@@ -112,13 +112,53 @@ Das Produkt soll auf Android wie auch auf IOS Geräten bereitgestellt werden.
 
 ### 4. Produktfunktionen <a id="chapter-4"></a>
 #### 1. Benutzerfunktionen
-    *  **Benutzerkennung**
-    *  **Persönliche Daten**
-    *  **Persönliche Konfiguration**
-    *  **Persönliche Profil**
-#### 2. Administratorfunktionen
-    *  **Systemverwaltung**
-    *  **Benutzerverwaltung**
+**Benutzerkennung**
+Ein im System registrierter Benutzer kann das System erst nutzen, wenn er angemeldet ist
+
+**/F0010/** Resgestrierung: Ein Benutzer kann sich über das Loginmenü neu registrieren.
+folgende Angaben sind nötig:
+
+* Benutzername
+* Passwort
+* eMail-Adresse
+
+**/F0020/** ID wird generiert
+
+**/F0030/** Anmelden: ein registrierter Benutzer kann sich jederzeit mit Benutzername und Passwort anmelden.
+
+**/F0040/** Abmelden: Der Benutzer kann sich jederzeit abmelden
+
+**/F0050/** Passwort anfordern: Der Benutzer kann im Login eine Passwortzurücksetzung anfordern. Nach richter eingebe der verifizierten und mit dem Benutzerkonto verbundenen Mailadresse wir ein 8 stelliger Code generiert **/F0060/** der dann wiederum im Loginmenü anstelle Passwort eingegeben wird. Danach wird der Benutzer gezwungen ein neues Passwort einzugeben.
+
+**/F0070/** Der Benutzer kann sein Passort ändern. Der Benutzer muss sein neues Passwort zweimal eingeben.
+
+
+
+
+
+
+**Kundendaten Daten**
+
+**/F0110/** Der Benutzer kann sich seine gespeicherten Kundendaten vollständig anzeigen lassen
+
+**/F0120/** Der Benutzer kann nach Filtereinstellungen Kundendaten sortieren
+
+**/F0130/** Der Benutzer kann nach Stichworten suchen
+
+**/F0140/** Der Benutzer kann mit Hilfe von Filtern/Tags suchen
+
+**/F0115/** Der Benutzer kann Tags erstellen
+
+
+**Kundendaten Konfiguration**
+
+**/F0210/** Der Benutzer kann über das Menü einen neuen Kundeneintrag erstellen
+
+**/F0220/** Mitarbeiter einer Firma anlegen
+
+**/F0230/** Unternehmen anlegen
+
+
         
 ### 5. Produktdaten <a id="chapter-5"></a>
 ### 6. Produktleistungen <a id="chapter-6"></a>
