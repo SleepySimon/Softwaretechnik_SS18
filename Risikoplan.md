@@ -1,84 +1,84 @@
 # Risikoplan
 
 ### R001
-##### Beschreibung: 
+#### Beschreibung: 
 kalkulierter Zeitplan kann nicht eingehalten werden
-##### Auswirkung: 
+#### Auswirkung: 
 * produkt kann nicht nach Vereinbarung ausgeliefrt werden
 * kalkulierte Kosten steigen
-##### Verantworlicher:
+#### Verantworlicher:
 * PM
-##### Gegenmaßnahme: 
+#### Gegenmaßnahme: 
 * frühzeitiges Erkennen des Risikos durch PM und umverteilung der Mitarbeiter
-##### Eintrittswahrscheinöichkeit: 
+#### Eintrittswahrscheinöichkeit: 
 * hoch
-##### Score:
+#### Score:
 x
-##### Tragweite: 
+#### Tragweite: 
 * gesamtes Projekt
-##### geschätzter Schaden: 
+#### geschätzter Schaden: 
 * höhere Mitarbeiterkosten ca. 
 * Liefervollzug
 &nbsp;
 ### R002
-##### Beschreibung: 
+#### Beschreibung: 
 * Mitarbeiterfluktuation
-##### Auswirkung: 
+#### Auswirkung: 
 * Projektphasen werden länger
 * Projekt kann nicht fristgemäß fertiggestellt werden
 * Mitarbeiter müssen neue eingelernt werden
-##### Verantworlicher: 
+#### Verantworlicher: 
 * PM
-##### Gegenmaßnahme:
+#### Gegenmaßnahme:
 * frühzeitiges Erkennen
 * rechtzeitige Umdisponierung
 * ggf. Neueinstellung
-##### Eintrittswahrscheinöichkeit: 
+#### Eintrittswahrscheinöichkeit: 
 * gering
-##### Score:
+#### Score:
 x
-##### Tragweite:
+#### Tragweite:
 * einzelne Projektphase ggf. aber auchgesamtes Projekt
-##### geschätzter Schaden:
+#### geschätzter Schaden:
 * höhere Mitarbeiter Kosten
 * freie externer Mitarbeiter
 * Liefervollzug
 &nbsp;
 ### R003
-##### Beschreibung: 
+#### Beschreibung: 
 * Geringe Produktivität
-##### Auswirkung:
+#### Auswirkung:
 * Projektphasen werden größer
-##### Verantworlicher:
+#### Verantworlicher:
 * Mitarbeiter und PM
-##### Gegenmaßnahme:
+#### Gegenmaßnahme:
 * frühzeitiges Erkennen
 * Teamgespräche
-##### Eintrittswahrscheinöichkeit: 
+#### Eintrittswahrscheinöichkeit: 
 * mittel
-##### Score:
+#### Score:
 x
-##### Tragweite:
+#### Tragweite:
 * gesamtes Projekt
-##### geschätzter Schaden:
+#### geschätzter Schaden:
 * Leifervollzug
 &nbsp;
 ### R004
-##### Beschreibung: 
+#### Beschreibung: 
 * Spezifikationskollaps
-##### Auswirkung:
+#### Auswirkung:
 * Ende des Projekts
-##### Verantworlicher:
+#### Verantworlicher:
 * beide Parteien 
-##### Gegenmaßnahme:
+#### Gegenmaßnahme:
 * vertragliche Einigung auf Spezifikationenumfang
-##### Eintrittswahrscheinöichkeit: 
+#### Eintrittswahrscheinöichkeit: 
 * niedrig
-##### Score:
+#### Score:
 x
-##### Tragweite:
+#### Tragweite:
 * gesamtes Projekt
-##### geschätzter Schaden:
+#### geschätzter Schaden:
 * bisherige investierte Resourcen gehen verloren
 &nbsp;
 
